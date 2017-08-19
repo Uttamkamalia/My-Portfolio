@@ -1,0 +1,75 @@
+
+.nav-pills
+{
+	background-color: black;
+	border-radius: 5px;
+
+}
+
+.parallex{
+	background-image: url(eve.jpg);
+	min-height: 800px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#navi1
+{
+	font-size: 25px;
+	font-family: monospace;
+
+}
+
+.per_img
+{
+	border-radius: 50%;
+	width: 80%;
+	height: 80%;
+}
+a{
+		color:white;
+}
+
+body
+{
+	
+	color:white;
+}
+#block1{
+	background-color: black;
+	opacity:.7;
+	color:white;
+	padding: 20px;
+	border-radius: 10px;
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+	
+	
+}
+.btnList
+{
+	margin-top: 10px;
+}
+.btn
+{
+	background-color: black;
+}
+
+#page1
+{
+	background-image:url(flower.jpg);
+	background-size: cover;
+	height:900px;
+	padding-top: 300px;
+	margin-top: -5%;
+}
+#page2
+{
+	background-image:url(peace.jpg);
+	background-size: cover;
+	height:800px;
+	padding-top: 30px;
+}
